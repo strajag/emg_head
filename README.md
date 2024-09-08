@@ -1,4 +1,5 @@
 ![EMG (Head) Device Prototype v1 - Device with band](https://github.com/user-attachments/assets/8c329c8b-ac02-412a-a668-42df97b88b0c)
+<img src="https://github.com/user-attachments/assets/8c329c8b-ac02-412a-a668-42df97b88b0c" width="48">
 ![EMG (Head) Device Prototype v1 - Band front](https://github.com/user-attachments/assets/80c890e1-8413-427a-a981-06dce70b3f91)
 ![EMG (Head) Device Prototype v1 - Band back](https://github.com/user-attachments/assets/a5577d7d-4acb-42ab-8f07-ef9cf316bd34)
 ![IMG_20240123_105033](https://github.com/user-attachments/assets/ab938fd7-13f8-4556-af85-3d0e4f3f3483)
